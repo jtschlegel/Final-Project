@@ -15,7 +15,7 @@
 
 **High School:** Saint Ignatius College Prep
 
-[Early Life](file:///C:/Users/jtschlegel/Downloads/FS19/INFOTC%201100/Markdown/second_page.html)
+[Early Life](#Early-Life)
 
 [High School Years](file:///C:/Users/jtschlegel/Downloads/FS19/INFOTC%201100/Markdown/third_page.html)
 
