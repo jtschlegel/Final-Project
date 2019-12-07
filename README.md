@@ -18,13 +18,13 @@ A little bit about me
 
 **High School:** Saint Ignatius College Prep
 
-[Early Life](#EarlyLife)
+[Early Life](#Early)
 
-[High School](#HighSchool)
+[High School](#High)
 
 [Athletics](#Athletics)
 
-[College Years](#CollegeYears)
+[College Years](#College)
 
 
 # Early Life
